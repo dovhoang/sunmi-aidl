@@ -1,0 +1,3 @@
+include ':app:builtin'
+include ':app'
+rootProject.name = "AIDLTest"
